@@ -1,1 +1,3 @@
-# LOVE YOU
+READ ME
+
+code by Aoki Azera Akuma
